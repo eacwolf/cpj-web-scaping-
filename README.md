@@ -1,5 +1,8 @@
 # cpj-web-scaping-
 automating webscraping in cpj website and visualize with dash board in excel 
+
+site : https://cpj.org/data/missing/?status=Missing&start_year=2025&end_year=2025&group_by=location
+
 🕵️‍♂️ CPJ Web Scraping – Missing Journalists Project Summary
 This project involves web scraping data from the Committee to Protect Journalists (CPJ) website, specifically the section listing missing journalists. The goal is to collect structured data for analysis or research purposes using automated tools like Selenium.
 
